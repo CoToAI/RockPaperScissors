@@ -1,7 +1,7 @@
 # ✊📄✂️ Rock-Paper-Scissors: Python Practice Project
 
 This project is a simple yet powerful demonstration of my learning journey in Python — specifically focusing on **randomization**, **lists**, **input handling**, and **control flow**. 
-I built a Rock-Paper-Scissors game that pits the player against a computer opponent using randomly generated choices.
+I built a Rock-Paper-Scissors game that pits the player against a computer opponent using randomly generated choices: Day 4
 
 ---
 
